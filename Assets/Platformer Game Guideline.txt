@@ -1,0 +1,21 @@
+*1. Platformer Controls
+*2. Player Animations
+	*a. Idle
+	*b. Running
+	*c. Jumping
+*3. Physics
+*4. Collectibles
+	a. Ex: Coins, Rings, Lives, etc
+*5. Power-Ups
+	a. Either a leveling system or multiple collectables that modify the character's abilities
+*6. UI
+	a. At least one canvas to display all of the character information to the player
+*7. You should have at least the following levels:
+	*a. Start
+	*b. Win
+	*c. Lose
+	*d. 3+ playable levels
+*8. Pause Function
+	a. Pause the game, bring up a menu to exit, resume, etc
+*9. Focous on replayability
+	a. What about this game makes you want to come back and play it again?
